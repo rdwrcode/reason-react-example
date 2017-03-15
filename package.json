@@ -1,0 +1,29 @@
+{
+  "name": "reason-react-example",
+  "version": "0.0.1",
+  "description": "reason-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bsb -make-world -w",
+    "build": "webpack -w",
+    "clean": "bsb -clean-world && rm src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs-platform": "^1.5.2",
+    "director": "^1.2.0",
+    "react-dom": "^15.4.2",
+    "react": "^15.4.2",
+    "reason-js": "^0.0.16",
+    "reason-react": "https://github.com/reasonml/reason-react.git",
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.1"
+  },
+  "devDependencies": {
+    "compression-webpack-plugin": "^0.3.2",
+    "webpack": "^1.14.0"
+  }
+}

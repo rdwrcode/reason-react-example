@@ -1,7 +1,6 @@
 This proj is cloned from [reason-react-example](https://github.com/chenglou/reason-react-example)
 
-This is a repo with examples usages of [Reason-React]. Reason-React's docs are [here](https://github.com/reasonml/reason-react/blob/master/documentation.md).
-Have something you don't understand? Join us on [Discord](discord.gg/reasonml)!
+![completed todoMVC](reason-react-example/Reason-react-todo.png)
 
 Set up OCaml first on Mac OS
 ```

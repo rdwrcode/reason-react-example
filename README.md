@@ -1,6 +1,6 @@
 This proj is cloned from [reason-react-example](https://github.com/chenglou/reason-react-example)
 
-![completed todoMVC](reason-react-example/Reason-react-todo.png)
+![completed todoMVC](https://github.com/rdwrcode/reason-react-example/blob/master/Reason-react-todo.png)
 
 Set up OCaml first on Mac OS
 ```
